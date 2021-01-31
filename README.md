@@ -2,6 +2,8 @@
 
 _Automatically add next page_
 
+DV - add my only notes to the readme file
+
 See [infinite-scroll.com](https://infinite-scroll.com) for complete docs and demos.
 
 ## Install
